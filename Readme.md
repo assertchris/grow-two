@@ -12,6 +12,7 @@ If you run into issues installing the npm packages, try the following:
 
 1. delete package-lock.json
 2. run npm i
+3. git reset HEAD --hard (you will still have node_modules)
 
 If you run into issues generating an app key, try the following:
 
